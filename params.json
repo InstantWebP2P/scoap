@@ -1,6 +1,6 @@
 {
   "name": "Scoap",
   "tagline": "Securing COAP with UDP without DTLS",
-  "body": "# scoap\r\nSecuring COAP with UDP without DTLS\r\n\r\n\r\n### Deploy NACL-Cert to COAP over UDP\r\nhttps://github.com/InstantWebP2P/nacl-cert\r\n\r\n\r\n\r\n\r\nLicense\r\n\r\n(MIT)\r\n\r\nCopyright (c) 2016 Tom Zhou(iwebpp@gmail.com)\r\n",
+  "body": "# scoap\r\nSecuring COAP with UDP without DTLS\r\n\r\n\r\n\r\n##License\r\n\r\n(MIT)\r\n\r\nCopyright (c) 2016 Tom Zhou(iwebpp@gmail.com)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
