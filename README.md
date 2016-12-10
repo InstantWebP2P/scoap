@@ -10,6 +10,6 @@ https://github.com/InstantWebP2P/nacl-cert
 
 License
 
-(Private property)
+(MIT)
 
 Copyright (c) 2016 Tom Zhou(iwebpp@gmail.com)
